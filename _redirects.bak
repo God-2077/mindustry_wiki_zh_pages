@@ -1,0 +1,14 @@
+/feed /rss2.xml 301
+/rss.xml /rss2.xml 301
+/feed.xml /rss2.xml 301
+/admin/* /404.html 404
+/2024/06/07/daily-and-photography-2024-nian-de-gao-san-han-lou/ /2024/06/07/sui-sui-nian-2024-nian-de-gao-san-han-lou/ 301
+
+
+http://ksable.top/* https://blog.ksable.top/:splat 302!
+https://ksable.top/* https://blog.ksable.top/:splat 302!
+
+http://buasis.eu.org/* https://blog.ksable.top/:splat 301!
+https://buasis.eu.org/* https://blog.ksable.top/:splat 301!
+
+/favicon.ico https://assets.ksable.top/me/favicon-512.svg 301
